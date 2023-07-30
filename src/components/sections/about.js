@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'C++', 'React.js', 'JavaScript', 'Node.js', 'Relational Databases'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,13 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Born and raised in Indore, India, I was introduced to the exciting world of technology
+              at an early age, and I've been fascinated ever since. With a move to the United States
+              for my undergraduate studies, I took the leap to turn this interest into my chosen
+              field of study. I'm majoring in Computer Science at Rutgers University, where I've
+              explored everything from software engineering to data management. The dynamism and
+              infinite potential in this field continue to captivate me.
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -151,14 +153,14 @@ const About = () => {
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients.
             </p>
-
+            */}
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Beyond the world of coding and data, I'm an avid traveler with a keen interest in
+              supporting local businesses. My love for new cultures and experiences parallels my
+              approach to my work: always exploring, always learning. I've developed a strong
+              interest in data-driven solutions within the travel and tourism sector. With every
+              project I undertake, I aim to seamlessly blend my passion for technology and my love
+              for travel and exploration, creating digital solutions that make a difference.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

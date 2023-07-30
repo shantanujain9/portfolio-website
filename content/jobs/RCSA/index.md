@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
+date: '2023-04-31'
+title: 'Public Relations Chair'
+company: 'Rutgers Commuter Student Association'
+location: 'New Brunswick, New Jersey'
+range: 'May - May 2023'
 url: 'https://us.mullenlowe.com/'
 ---
 

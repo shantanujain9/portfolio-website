@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-12-01'
+title: 'Backend Developer'
+company: 'Salhotra Quant Challenge'
+location: 'New Brunswick, NJ'
+range: 'September - Dec 2021'
+url: 'https://rutgers.campuslabs.com/engage/organization/rutgersaviation'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
