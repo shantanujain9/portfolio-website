@@ -1,0 +1,23 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+/* PathfindingVisualizer.css or styles.css */
+
+@font-face {
+  font-family: 'YourFontRegular';
+  src: url('../fonts/Calibre/Calibre-Light.ttf') format('truetype'); /* Replace 'your-font-regular.ttf' with the actual file name */
+  /* Add more font formats here if needed, e.g., woff, woff2 */
+}
+
+@font-face {
+  font-family: 'YourFontBold';
+  src: url('../fonts/Calibre/Calibre-Medium.ttf') format('truetype'); /* Replace 'your-font-bold.ttf' with the actual file name */
+  /* Add more font formats here if needed, e.g., woff, woff2 */
+}
+
+/* Now, you can apply the fonts to specific elements */
+h1 {
+  font-family: 'YourFontBold', sans-serif; /* Use your custom bold font for the h1 element */
+  /* If 'YourFontBold' is not available, fallback to the default sans-serif font */
+}

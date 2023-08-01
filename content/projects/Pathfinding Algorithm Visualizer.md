@@ -2,7 +2,7 @@
 date: '2020-01-10'
 title: 'Pathfinding Algorithm Visualizer'
 github: 'https://github.com/shantanujain9/RCSA-Lounge-Scheduler'
-external: 'https://github.com/shantanujain9/RCSA-Lounge-Scheduler'
+external: 'https://jain9.com/pathfindingalgorithm/'
 tech:
   - Django
   - Python
