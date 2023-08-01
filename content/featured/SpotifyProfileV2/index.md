@@ -2,8 +2,8 @@
 date: '3'
 title: 'Path Finding Algorithm Visualizer'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://jain9.com/pathfindingalgorithm/'
+cta: 'https://jain9.com/pathfindingalgorithm/'
 tech:
   - React
   - Django
