@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2022-01-20'
 title: 'Bug Tracker Project'
 github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'

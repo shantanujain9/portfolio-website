@@ -1,6 +1,6 @@
 ---
-date: '2020-01-10'
-title: 'Pathfinding Algorithm Visualizer'
+date: '2022-01-10'
+title: 'Sorting Algorithm Visualizer'
 github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'
 tech:

@@ -7,6 +7,7 @@ range: 'May - May 2023'
 url: 'https://us.mullenlowe.com/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Planned and led 8+ events each semester with fellow board members, helping create a sense of community and enriching the college experience for students commuting to Rutgers.
+- Contributed to a 20% increase in commuter student participation by leveraging social media to promote general awareness of commuter students.
+- Captured memorable moments at RCSA events, sharing them on social media platforms to foster community spirit.
+- Served as a vital link between the association and university officials, effectively voicing the needs and concerns of commuter students.

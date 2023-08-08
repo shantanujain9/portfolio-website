@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2021-01-10'
 title: 'One Short Machine Learning'
 github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'

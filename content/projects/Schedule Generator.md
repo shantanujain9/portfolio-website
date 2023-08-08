@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2023-01-10'
 title: 'Schedule Generator'
 github: 'https://github.com/shantanujain9/RCSA-Lounge-Scheduler'
 external: 'https://github.com/shantanujain9/RCSA-Lounge-Scheduler'

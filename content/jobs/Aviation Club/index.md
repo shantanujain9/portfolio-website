@@ -7,7 +7,8 @@ range: 'September - May 2023'
 url: 'https://rutgers.campuslabs.com/engage/organization/rutgersaviation'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Oversaw the club's budget of over $3,000, keeping accurate records and providing clear financial reports.
+- Secured funding from Rutgers University and external sources for club events and activities.
+- Coordinated with vendors and suppliers to negotiate prices and maintain cost-effective operations.
+- Developed financial strategies to increase revenue and reduce expenses while ensuring compliance with university policies.
+- Regularly checked and reconciled financial records, maintaining complete accuracy.

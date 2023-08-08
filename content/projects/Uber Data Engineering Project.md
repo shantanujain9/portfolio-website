@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
+date: '2023-01-10'
 title: 'Uber Data Engineering Project'
-github: ''
+github: 'https://github.com/shantanujain9/Uber-Data-Engineering-Project'
 external: ''
 tech:
   - Python
   - Google Cloud Computing
   - Big Query
   - Looker (Dashboard)
-company: ''
+company: 'Personal Project'
 showInProjects: false
 ---
 

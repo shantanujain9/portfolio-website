@@ -7,7 +7,6 @@ range: 'September - Dec 2021'
 url: 'https://rutgers.campuslabs.com/engage/organization/rutgersaviation'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Developed low-latency algorithms and applied quantitative strategies to generate profit from trading in the stock market, improving trading efficiency by 15%.
+- Utilized VBA and Excel macros to analyze and manipulate level 2 data, improving data processing speed by 20%.
+- Implemented statistical analysis on historical market data, contributing to a 10% increase in predictive accuracy of trading models.
