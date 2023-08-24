@@ -2,7 +2,23 @@
   margin: 100px 0 0;
 }
 
+.grid > div {
+  margin-bottom: 0px; /* adjust this value as necessary */
+}
+
 /* PathfindingVisualizer.css or styles.css */
+.node {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  display: inline-block; /* This makes the node inline, so they form a grid pattern */
+}
+
+.node + .node {
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
 
 @font-face {
   font-family: 'YourFontRegular';

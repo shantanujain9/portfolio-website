@@ -65,6 +65,25 @@ export default class PathfindingVisualizer extends Component {
     }
   }
 
+  generateRandomMaze() {
+    const { grid } = this.state;
+    const newGrid = grid.slice();
+  
+    for (let row = 0; row < newGrid.length; row++) {
+      for (let col = 0; col < newGrid[row].length; col++) {
+        if (Math.random() < 0.3) { // 30% chance of being a wall
+          if (!(row === START_NODE_ROW && col === START_NODE_COL) && !(row === FINISH_NODE_ROW && col === FINISH_NODE_COL)) {
+            newGrid[row][col].isWall = true;
+          }
+        }
+      }
+    }
+  
+    this.setState({ grid: newGrid });
+  }
+
+  
+
   visualizeDijkstra() {
     const {grid} = this.state;
     const startNode = grid[START_NODE_ROW][START_NODE_COL];
@@ -74,13 +93,43 @@ export default class PathfindingVisualizer extends Component {
     this.animateDijkstra(visitedNodesInOrder, nodesInShortestPathOrder);
   }
 
+  resetBoard() {
+    const grid = getInitialGrid();
+    this.setState({ grid });
+  
+    // Reset visual state of all nodes
+    for (let row = 0; row < 18; row++) {
+      for (let col = 0; col < 46; col++) {
+        const nodeClassName = document.getElementById(`node-${row}-${col}`).className;
+  
+        if (nodeClassName === 'node node-visited' || nodeClassName === 'node node-shortest-path') {
+          document.getElementById(`node-${row}-${col}`).className = 'node';
+        }
+      }
+    }
+    
+    // Specifically set the start and finish nodes to their respective classes
+    document.getElementById(`node-${START_NODE_ROW}-${START_NODE_COL}`).className = 'node node-start';
+    document.getElementById(`node-${FINISH_NODE_ROW}-${FINISH_NODE_COL}`).className = 'node node-finish';
+  }
+  
+  
+  
+  
+
   render() {
     const {grid, mouseIsPressed} = this.state;
-
+  
     return (
       <>
         <button onClick={() => this.visualizeDijkstra()}>
           Visualize Dijkstra's Algorithm
+        </button>
+        <button onClick={() => this.generateRandomMaze()}>
+          Generate Random Maze
+        </button>
+        <button onClick={() => this.resetBoard()}>
+          Reset Board
         </button>
         <div className="grid">
           {grid.map((row, rowIdx) => {
@@ -115,9 +164,9 @@ export default class PathfindingVisualizer extends Component {
 
 const getInitialGrid = () => {
   const grid = [];
-  for (let row = 0; row < 20; row++) {
+  for (let row = 0; row < 18; row++) {
     const currentRow = [];
-    for (let col = 0; col < 50; col++) {
+    for (let col = 0; col < 46; col++) {
       currentRow.push(createNode(col, row));
     }
     grid.push(currentRow);

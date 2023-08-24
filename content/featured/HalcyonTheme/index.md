@@ -2,8 +2,8 @@
 date: '1'
 title: 'Schedule Generator'
 cover: './scheduler.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/shantanujain9'
+external: ''
 tech:
   - Python
   - django

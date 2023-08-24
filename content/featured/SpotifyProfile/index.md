@@ -2,8 +2,8 @@
 date: '2'
 title: 'Uber Data Engineering Project'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/shantanujain9'
+external: '/uberDataEngineeringProject'
 tech:
   - Python
   - Google Cloud Platform
