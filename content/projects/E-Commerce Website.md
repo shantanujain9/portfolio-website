@@ -5,6 +5,7 @@ github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'
 tech:
   - React.js
+  - AWS
   - MySQL
 company: 'Rutgers University'
 showInProjects: true
