@@ -3,7 +3,7 @@ date: 2023-01-30
 title: 'Schedule Generator'
 cover: './scheduler.png'
 github: 'https://github.com/shantanujain9'
-external: ''
+external: 'https://shantanujain9.pythonanywhere.com'
 tech:
   - Python
   - django
