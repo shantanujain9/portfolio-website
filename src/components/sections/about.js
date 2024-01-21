@@ -135,12 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Born and raised in Indore, India, I was introduced to the exciting world of technology
-              at an early age, and I've been fascinated ever since. With a move to the United States
-              for my undergraduate studies, I took the leap to turn this interest into my chosen
-              field of study. I'm majoring in Computer Science at Rutgers University, where I've
-              explored everything from software engineering to data management. The dynamism and
-              infinite potential in this field continue to captivate me.
+              I was introduced to the exciting world of technology at an early age, while growing up
+              in Indore, India. When I moved to the United States for my undergraduate studies, I
+              decided to dive deeper into this interest, by studying Computer Science at Rutgers
+              University. I've explored everything from software engineering to data management.
+              What I like the most about tech is how it's always changing and has endless
+              possibilities.
             </p>
 
             {/* <p>
@@ -155,12 +155,13 @@ const About = () => {
             </p>
             */}
             <p>
-              Beyond the world of coding and data, I'm an avid traveler with a keen interest in
-              supporting local businesses. My love for new cultures and experiences parallels my
-              approach to my work: always exploring, always learning. I've developed a strong
-              interest in data-driven solutions within the travel and tourism sector. With every
-              project I undertake, I aim to seamlessly blend my passion for technology and my love
-              for travel and exploration, creating digital solutions that make a difference.
+              Beyond the world of coding and data, I'm deeply interested in fintech and financial
+              markets. This led me to develop a Stock Market Data Analysis Project, showcased on my
+              website, and participate in an algorithmic trading coding competition. My technical
+              skills span across Python, Java, C++, and the MERN stack. However, my skills and
+              interests are not limited to finance, I'm adaptable and keen on applying my skills in
+              various industries, from finance to music, to travelling, to solve complex problems
+              and innovate.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

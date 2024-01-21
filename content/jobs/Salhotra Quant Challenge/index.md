@@ -1,5 +1,5 @@
 ---
-date: '2021-12-01'
+date: 2021-12-01
 title: 'Backend Developer'
 company: 'Salhotra Quant Challenge'
 location: 'New Brunswick, NJ'

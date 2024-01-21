@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: 2023-04-30
 title: 'Path Finding Algorithm Visualizer'
 cover: './course-card.png'
 external: 'https://jain9.com/pathfindingalgorithm/'

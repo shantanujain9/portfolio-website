@@ -4,13 +4,13 @@ module.exports = {
   siteMetadata: {
     title: 'Shantanu Jain',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Shantanu Jain is a Computer Science Student who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://jain9.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    //`gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
@@ -77,7 +77,7 @@ module.exports = {
               maxWidth: 700,
               linkImagesToOriginal: true,
               quality: 90,
-              tracedSVG: { color: config.colors.green },
+              //tracedSVG: { color: config.colors.green }, GPT suggested to remove
             },
           },
           {
@@ -149,11 +149,11 @@ module.exports = {
         ],
       },
     },
-    {
+    /*{
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-45666519-2',
       },
-    },
+    },*/
   ],
 };

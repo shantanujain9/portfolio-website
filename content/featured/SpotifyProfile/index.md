@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: 2023-02-02
 title: 'Uber Data Engineering Project'
 cover: './demo.png'
 github: 'https://github.com/shantanujain9'

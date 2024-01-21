@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: 2023-01-30
 title: 'Schedule Generator'
 cover: './scheduler.png'
 github: 'https://github.com/shantanujain9'

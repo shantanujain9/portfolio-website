@@ -1,5 +1,5 @@
 ---
-date: '2022-01-10'
+date: 2022-01-10
 title: 'Sorting Algorithm Visualizer'
 github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'

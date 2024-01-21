@@ -1,5 +1,5 @@
 ---
-date: '2023-04-31'
+date: 2023-04-30
 title: 'Public Relations Chair'
 company: 'Rutgers Commuter Student Association'
 location: 'New Brunswick, New Jersey'

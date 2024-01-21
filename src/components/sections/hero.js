@@ -65,11 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Today, as an ambitious Computer Science student at Rutgers University, NJ, I am honing my
-        skills in data science and software development. Always eager to learn and push the
-        boundaries, I'm actively seeking opportunities that challenge me, enhance my knowledge, and
-        allow me to make a tangible impact. With every line of code, I aim to create innovative and
-        efficient solutions for complex problems.
+        Today, as a Computer Science student at Rutgers University, NJ, I am honing my skills in
+        data science and software development. Always eager to learn and push the boundaries, I'm
+        actively seeking opportunities that challenge me, help me grow and allow me to make a
+        tangible impact. With every line of code, I aim to create innovative and efficient solutions
+        for complex problems.
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a>

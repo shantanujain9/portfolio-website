@@ -1,5 +1,5 @@
 ---
-date: '2023-01-10'
+date: 2023-01-10
 title: 'Uber Data Engineering Project'
 github: 'https://github.com/shantanujain9/Uber-Data-Engineering-Project'
 external: ''

@@ -1,5 +1,5 @@
 ---
-date: '2022-02-10'
+date: 2022-02-10
 title: 'Stock Market Analysis'
 github: 'https://github.com/shantanujain9/'
 external: 'https://github.com/shantanujain9/'
